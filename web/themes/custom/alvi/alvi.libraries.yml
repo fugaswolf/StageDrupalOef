@@ -1,0 +1,14 @@
+global-css:
+  css:
+    theme:
+      css/style.css: {}
+
+global-js:
+  js:
+    js/script.js: {}
+  dependencies:
+    - core/jquery
+
+fancy-effect:
+  js:
+    js/fancy.js: {}
